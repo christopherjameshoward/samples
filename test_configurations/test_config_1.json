@@ -4,8 +4,7 @@
 	"model": "BankingApp-Eggplant",
 	"steps": [
 		"step_type": "test_case",
-		"test_case_name": "Jamie test case",
-		
+		"test_case_name": "Jamie test case"
 	],
 	"tags": []
 	"suts": [
