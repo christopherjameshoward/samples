@@ -1,0 +1,16 @@
+{
+	"name": "My test config",
+	"environment_type": "local",
+	"model": "BankingApp-Eggplant",
+	"steps": [
+		"step_type": "test_case",
+		"test_case_name": "Jamie test case",
+		
+	],
+	"tags": []
+	"suts": [
+		{
+			"sut_name": "Example VNC"
+		}
+	]
+}
