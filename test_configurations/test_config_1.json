@@ -1,7 +1,7 @@
 {
 	"name": "My test config",
 	"environment_type": "local",
-	"model": "BankingApp-Eggplant",
+	"model_name": "BankingApp-Eggplant",
 	"steps": [
 		{
 			"step_type": "test_case",
