@@ -1,7 +1,7 @@
 {
 	"name": "My 2n test config",
 	"environment_type": "local",
-	"asset_name": "main.suite"
+	"asset_name": "main.suite",
 	"steps": [
 		{
 			"step_type": "test_case",
