@@ -1,5 +1,5 @@
 {
-	"name": "My 2n test config",
+	"name": "My 2nd test config",
 	"environment_type": "local",
 	"asset_name": "main.suite",
 	"steps": [
